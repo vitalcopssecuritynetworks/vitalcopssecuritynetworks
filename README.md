@@ -1,11 +1,11 @@
 **************************************************************************************************************
-###  Centro de Operações de Rede Remota (RNOC) ⚡
+### Centro de Operações de Rede Remota (RNOC) ⚡
 **************************************************************************************************************
 
 <div class="box">
   <div id="title">
   <b><img src="https://user-images.githubusercontent.com/101937035/159137864-0dbfad41-c9f3-4ff8-9b3a-4194b9d63185.png" alt="vitalcops-noc-brazil" style="max-width: 100%;"></b><br>
-  <b>VitalCops Security Networks para o seu negócio no Brasil.</b><br>
+  <b>VitalCops© Security Networks para o seu negócio no Brasil.</b><br>
   <b>Fale com o especialista em gestão da segurança da informação.</b><br>
   <b>suporte@vitalcops.com</b><br>
   <b><a href="https://www.vitalcops.com.br">vitalcops.com.br</a><br>
